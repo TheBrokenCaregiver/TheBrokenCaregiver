@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Longed4you/Longed4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="850" height="824" alt="Screenshot 2026-07-30 133600" src="https://github.com/user-attachments/assets/de4f28fd-701b-4ea5-9cac-bc4ca1b83206" />
+GREASU!!!
