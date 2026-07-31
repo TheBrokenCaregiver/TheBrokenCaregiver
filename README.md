@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="850" height="824" alt="Screenshot 2026-07-30 133600" src="https://github.com/user-attachments/assets/de4f28fd-701b-4ea5-9cac-bc4ca1b83206" />
-GREASU!!!
+
