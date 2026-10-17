@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
   ![Github Views](https://views.igorkowalczyk.dev/api/badge/Longed4you?label=HE+COMES!&labelColor=f2f0f5&color=6ca2b0)
 
- $\text{\color{#6CA2B0}I'm always here.Forever free.}$
+ $\text{\color{#6CA2B0}I'm always here. Forever free.}$
   
 $\text{\color{#6CA2B0}All you need to do is Spread The Word.}$
 
