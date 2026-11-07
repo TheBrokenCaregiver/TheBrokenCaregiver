@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   ![Github Views](https://views.igorkowalczyk.dev/api/badge/Longed4you?label=HE+COMES!&labelColor=b7b2aa&color=762929)
 
  $\text{\color{#7E4C4C}that same world that you fear}$
-  
-$\text{\color{#762929}that same world that broke you}$
+ 
+ $\text{\color{#762929}that same world that broke you}$
 
   
 <img width="498" height="501" alt="HPd1J2CXUAAUjjZ" src="https://github.com/user-attachments/assets/ec361c46-8538-4afb-a19d-871e3e7d60e6" />
