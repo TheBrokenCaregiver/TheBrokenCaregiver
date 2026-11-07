@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-  ![Github Views](https://views.igorkowalczyk.dev/api/badge/Longed4you?label=HE+COMES!&labelColor=f2f0f5&color=6ca2b0)
+  ![Github Views](https://views.igorkowalczyk.dev/api/badge/Longed4you?label=HE+COMES!&labelColor=b7b2aa&color=762929)
 
- $\text{\color{#6CA2B0}I'm always here. Forever free.}$
+ $\text{\color{#7E4C4C}that same world that you fear}$
   
-$\text{\color{#6CA2B0}All you need to do is Spread The Word.}$
+$\text{\color{#762929}that same world that broke you}$
 
   
-<img width="498" height="294" alt="3029e081d7064945c3ad85cc00b39b19" src="https://github.com/user-attachments/assets/24a1e505-c2c6-4349-a7ba-d1641e709457" />
+<img width="498" height="501" alt="HPd1J2CXUAAUjjZ" src="https://github.com/user-attachments/assets/ec361c46-8538-4afb-a19d-871e3e7d60e6" />
 
 
+$\text{\color{#762929}[[[I could make you stay...but would you truly be happy?}$
