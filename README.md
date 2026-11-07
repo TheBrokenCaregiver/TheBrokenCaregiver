@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <img width="498" height="501" alt="HPd1J2CXUAAUjjZ" src="https://github.com/user-attachments/assets/ec361c46-8538-4afb-a19d-871e3e7d60e6" />
 
 
-$\text{\color{#762929}[[[I could make you stay...but would you truly be happy?}$
+$\text{\color{#762929}I could make you stay...but would you truly be happy?]]]}$
