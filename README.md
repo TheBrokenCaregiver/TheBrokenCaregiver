@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 $\text{\color{#762929}I could make you stay...but would you truly be happy?]]]}$
 
 [[[ Click it ]]](https://youtu.be/uYuGMk9noho?si=qo38WKRk34_873_x)
+
+<details>
+<summary></summary>
+<img width="401" height="52" alt="Screenshot 2026-11-09 192123" src="https://github.com/user-attachments/assets/fce1ed20-99a2-4975-8e14-b83cfc7d4cff" />
+</details>
